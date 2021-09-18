@@ -12,9 +12,6 @@ public class Painting {
 
     @Override
     public String toString() {
-        return "Painting{" +
-                "name='" + name + '\'' +
-                ", painterName='" + painterName + '\'' +
-                '}';
+        return String.format("%s is painting %s", painterName, name);
     }
 }
