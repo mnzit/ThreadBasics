@@ -29,7 +29,7 @@ public class Painter implements Runnable {
         }
 
         Instant after = Instant.now();
-        System.out.println(name + " finished painting at: " + before);
+        System.out.println(name + " finished painting at: " + after);
         long timeTakenInMs = Duration.between(before, after).toMillis(); // this is difference between before and after
         System.out.println(name + " time taken: " + timeTakenInMs + "ms");
     }
