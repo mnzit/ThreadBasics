@@ -2,7 +2,7 @@ package com.nepalaya.threadbasics;
 
 public class User implements Runnable {
 
-    private Account account;
+    private Account account = new Account();
     private Transaction transaction;
 
     public User(Account account, Transaction transaction) {
