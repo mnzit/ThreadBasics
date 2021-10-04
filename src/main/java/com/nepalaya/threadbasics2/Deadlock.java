@@ -20,7 +20,7 @@ public class Deadlock {
             System.out.println("This is printed by: " + Thread.currentThread().getName() + ", i: " + i++);
         }
 
-        System.out.println("[End] - Printed by: "+ Thread.currentThread().getName());
+        System.out.println("[End] -: Printed by: "+ Thread.currentThread().getName());
     }
 }
 
