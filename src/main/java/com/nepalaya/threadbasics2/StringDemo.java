@@ -12,7 +12,7 @@ public class StringDemo {
         String asd1 = "";
 
         StringBuilder asd11 = new StringBuilder();
-        asd11.append("aasd");
+        asd11.append("aas123d");
         asd11.append("vasd");
 
         StringBuffer asd21 = new StringBuffer();
