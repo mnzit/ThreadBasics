@@ -1,6 +1,7 @@
 package com.nepalaya.threadbasics2;
 
 import com.nepalaya.threadbasics.LimitedArrayList;
+import com.nepalaya.threadbasics2.exception.ExceptionHandler;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 

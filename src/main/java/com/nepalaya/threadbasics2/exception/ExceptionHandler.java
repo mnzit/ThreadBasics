@@ -1,4 +1,6 @@
-package com.nepalaya.threadbasics2;
+package com.nepalaya.threadbasics2.exception;
+
+import com.nepalaya.threadbasics2.util.LogHandler;
 
 public class ExceptionHandler {
 

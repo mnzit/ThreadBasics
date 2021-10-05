@@ -1,6 +1,6 @@
 package com.nepalaya.threadbasics;
 
-import com.nepalaya.threadbasics2.ExceptionHandler;
+import com.nepalaya.threadbasics2.exception.ExceptionHandler;
 import lombok.AllArgsConstructor;
 
 import java.util.concurrent.Callable;

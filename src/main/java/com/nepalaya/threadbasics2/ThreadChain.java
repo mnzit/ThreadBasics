@@ -1,5 +1,6 @@
 package com.nepalaya.threadbasics2;
 
+import com.nepalaya.threadbasics2.util.LogHandler;
 import lombok.*;
 
 import java.util.ArrayList;

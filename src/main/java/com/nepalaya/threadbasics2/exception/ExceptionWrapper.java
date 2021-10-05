@@ -1,4 +1,4 @@
-package com.nepalaya.threadbasics2;
+package com.nepalaya.threadbasics2.exception;
 
 @FunctionalInterface
 public interface ExceptionWrapper {

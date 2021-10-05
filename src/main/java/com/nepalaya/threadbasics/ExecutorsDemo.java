@@ -1,6 +1,6 @@
 package com.nepalaya.threadbasics;
 
-import com.nepalaya.threadbasics2.ExceptionHandler;
+import com.nepalaya.threadbasics2.exception.ExceptionHandler;
 
 import java.util.ArrayList;
 import java.util.List;
